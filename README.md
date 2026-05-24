@@ -18,4 +18,3 @@ This project provides a structured database solution for managing volunteer data
 - **Database**: MariaDB (MySQL-compatible relational database)
 - **Documentation**: Included assessment and documentation files
 
-## 📁 Project Structure
